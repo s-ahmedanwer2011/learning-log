@@ -1,2 +1,2 @@
 # learning-log
-Wanted to pursue really learning how to code for a while and this is where i start i guess. I almost have zero idea of what im doing but i have faith in myself. I can envision my success already. MIT, here i come.
+Day 1 - Wanted to pursue really learning how to code for a while and this is where I start I guess. I almost have zero idea of what im doing but I have faith in myself. I can envision my success already. MIT, here I come.
